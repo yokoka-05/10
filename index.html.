@@ -7,10 +7,6 @@
  <body>
   <h1>自己紹介</h1>
   <table border="1">
-   <tr class="highlight">
-  <td>データ1</td>
-  <td>データ2</td＞
-            </tr>
    <tr>
     <th>名前</th>
     <th>年齢</th>
